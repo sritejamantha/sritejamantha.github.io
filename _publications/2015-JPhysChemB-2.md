@@ -1,0 +1,15 @@
+---
+title: "[5] Conformational properties of sodium polystyrenesulfonate in water: Insights from a coarse-grained model with explicit solvent"
+collection: publications
+permalink: /publication/2015-JPhysChemB-2
+#excerpt: 'Explicit solvent coarse grained molecular models for simulations of #polyelectrolyte solutions '
+date: 2015-08-27
+venue: 'Journal of Physical Chemistry B'
+paperurl: 'https://doi.org/10.1021/acs.jpcb.5b01700'
+citation: ' Sriteja Mantha, and Arun Yethiraj (2015). &quot;Conformational Properties of Sodium Polystyrenesulfonate in Water: Insights from a Coarse-Grained Model with Explicit Solvent .&quot; <i>Journal of Physical Chemistry </i>. 119, 11010-11018.'
+---
+Polymer solutions present a significant computational challenge because chemical realism on small length scales can be important, but the polymer molecules are very large. In polyelectrolyte solutions, there is often the additional complexity that the molecules consist of hydrophobic and charged groups, which makes an accurate treatment of the solvent, water, crucial. One route to achieve this balance is through coarse-grained models where several atoms on a monomer are grouped into one interaction site. In this work, we develop a coarse grained (CG) model for sodium polystyrenesulfonate (NaPSS) in water using a methodology consistent with the MARTINI coarse-graining philosophy, where four heavy atoms are grouped into one CG site. We consider two models for water: polarizable MARTINI (POL) and big multipole water (BMW). In each case, interaction parameters for the polymer sites are obtained by matching the potential of mean force between two monomers to results of atomistic simulations. The force field based on the POL water provides a more reasonable description of polymer properties than that based on the BMW water. We study the properties of single chains using the POL force field. Fully sulfonated chains are rodlike (i.e., the root-mean-square radius of gyration, Rg, scales linearly with degree of polymerization, N). When the fraction of sulfonation, f, is 0.25 or less, the chain collapses into a cylindrical globule. For f = 0.5, pearl-necklace conformations are observed when every second monomer is sulfonated. The lifetime of a counterion around a polymer is on the order of 100 ps, suggesting that there is no counterion condensation. The model is computationally feasible and should allow one to study the effect of local chemistry on the properties of polymers in aqueous solution.
+
+[Download paper here](http://sritejamantha.github.io/files/paper2JPCB2015.pdf)
+
+Recommended citation: Sriteja Mantha, and Arun Yethiraj. (2015). "Conformational Properties of Sodium Polystyrenesulfonate in Water: Insights from a Coarse-Grained Model with Explicit Solvent" <i>Journal of Physical Chemistry</i>. 119, 11010-11018.

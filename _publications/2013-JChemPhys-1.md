@@ -1,8 +1,8 @@
 ---
-title: "Molecular dynamics simulation of a single-stranded DNA with heterogeneous distribution of nucleobases in aqueous medium"
+title: "[4] Molecular dynamics simulation of a single-stranded DNA with heterogeneous distribution of nucleobases in aqueous medium"
 collection: publications
 permalink: /publication/2013-JChemPhys-1
-excerpt: 'Conformational transitions of single-stranded DNA (ss-DNA) in an aqueous solution.'
+#excerpt: 'Conformational transitions of single-stranded DNA (ss-DNA) in an aqueous #solution.'
 date: 2013-08-21
 venue: 'Journal of Chemical Physics'
 paperurl: 'https://doi.org/10.1063/1.4818537'
@@ -12,4 +12,4 @@ The DNA metabolic processes often involve single-stranded DNA (ss-DNA) molecules
 
 [Download paper here](http://sritejamantha.github.io/files/paper1JCP2013.pdf)
 
-Recommended citation: Kaushik Charaborty, Sriteja Mantha, and Sanjoy Bandyopadhyay. (2013). "olecular dynamics simulation of a single-stranded DNA with heterogeneous distribution of nucleobases in aqueous medium" <i>Journal of Chemical Physics</i>. 139, 075103.
+Recommended citation: Kaushik Charaborty, Sriteja Mantha, and Sanjoy Bandyopadhyay. (2013). "Molecular dynamics simulation of a single-stranded DNA with heterogeneous distribution of nucleobases in aqueous medium" <i>Journal of Chemical Physics</i>. 139, 075103.

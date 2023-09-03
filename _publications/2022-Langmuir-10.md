@@ -1,0 +1,15 @@
+---
+title: "[13] Surfactant in a Polyol–CO2 Mixture: Insights from a Classical Density Functional Theory Study"
+collection: publications
+permalink: /publication/2022-Langmuir-10
+#excerpt: 'Editors Suggestion'
+date: 2022-12-16
+venue: 'Langmuir'
+paperurl: 'https://doi.org/10.1021/acs.langmuir.2c02913'
+citation: ' Sriteja Mantha, Huikuan Chao, Andrew S. Ylitalo, Thomas C. Fitzgibbons, Weijun Zhou, Valeriy V. Ginzburg, and Zhen-Gang Wang (2022). &quot; Surfactant in a Polyol–CO2 Mixture: Insights from a Classical Density Functional Theory Study .&quot; <i>Langmuir </i>. 51, 16172-16182.'
+---
+Silicone–polyether (SPE) surfactants, made of a polydimethyl-siloxane (PDMS) backbone and polyether branches, are commonly used as additives in the production of polymeric foams with improved properties. A key step in the production of polymeric foams is the nucleation of gas bubbles in the polymer matrix upon supersaturation of dissolved gas. However, the role of SPE surfactants in the nucleation of gas bubbles is not well understood. In this study, we use classical density functional theory to investigate the effect of an SPE surfactant on the nucleation of CO2 bubbles in a polyol foam formulation. We find that the addition of an SPE surfactant leads to a ∼3-fold decrease in the polyol–CO2 interfacial tension at the surfactant’s critical micelle concentration. Additionally, the surfactant is found to reduce the free energy barrier and affect the minimum free energy pathway (MFEP) associated with CO2 bubble nucleation. In the absence of a surfactant, a CO2-rich bubble nucleates from a homogeneous CO2-supersaturated polyol solution by following an MFEP characterized by a single nucleation barrier. Adding a surfactant results in a two-step nucleation process with reduced free energy barriers. The first barrier corresponds to the formation of a spherical aggregate with a liquid-like CO2 core. This spherical aggregate then grows into a CO2-rich bubble (spherical aggregate with a vapor-like CO2 core) of a critical size representing the second barrier. We hypothesize that the stronger affinity of CO2 for PDMS (than polyether) stabilizes the spherical aggregate with the liquid-like CO2 core, leading to a lower free energy barrier for CO2 bubble nucleation. Stabilization of such an aggregate during the early stages of the nucleation may lead to foams with more, smaller bubbles, which can improve their microstrustural features and insulating abilities.
+
+[Download paper here](http://sritejamantha.github.io/files/paper10Langmuir2022.pdf)
+
+Recommended citation: Sriteja Mantha, Huikuan Chao, Andrew S. Ylitalo, Thomas C. Fitzgibbons, Weijun Zhou, Valeriy V. Ginzburg, and Zhen-Gang Wang (2022). "Surfactant in a Polyol–CO2 Mixture: Insights from a Classical Density Functional Theory Study" <i>Langmuir </i>. 51, 16172-16182.

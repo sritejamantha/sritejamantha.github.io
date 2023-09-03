@@ -1,0 +1,15 @@
+---
+title: "[9] Counterion-Regulated Dynamics of Water Confined in Lyotropic Liquid Crystalline Morphologies"
+collection: publications
+permalink: /publication/2018-JPhysChemB-6
+#excerpt: 'Explicit solvent coarse grained molecular models for simulations of #polyelectrolyte solutions '
+date: 2018-02-04
+venue: 'Journal of Physical Chemistry B'
+paperurl: 'https://doi.org/10.1021/acs.jpcb.7b12034'
+citation: ' Sriteja Mantha, Grayson L. Jackson, Mahesh K. Mahanthappa, and Arun Yethiraj (2018). &quot; Counterion-Regulated Dynamics of Water Confined in Lyotropic Liquid Crystalline Morphologies .&quot; <i>Journal of Physical Chemistry B </i>. 122, 2408-2413.'
+---
+The dynamics of confined water is of fundamental and long-standing interest. In technologically important forms of confinement, such as proton-exchange membranes, electrostatic interactions with the confining matrix and counterions play significant roles on the properties of water. There has been recent interest on the dynamics of water confined to the lyotropic liquid crystalline (LLC) morphologies of Gemini dicarboxylate surfactants. These systems are exciting because the nature of confinement, for example, size and curvature of channels and surface functionality is dictated by the chemistry of the self-assembling surfactant molecules. Quasielastic neutron scattering experiments have shown an interesting dependence of the water self-diffusion constant, Dα, on the identity (denoted α) of the counterion: at high hydration, the magnitude of the water self-diffusion constant is in the order DTMA < DNa < DK, where TMA, Na, and K refer to tetramethyl ammonium, sodium, and potassium counterions, respectively. This sequence is similar to what is seen in bulk electrolyte solutions. At low hydrations, however, the order of water self-diffusion is different, that is, DNa < DTMA < DK. In this work, we present molecular dynamics simulations for the dynamics of water in the LLC phases of dicarboxylate Gemini surfactants. The simulations reproduce the trends seen in experiments. From an analysis of the trajectories, we hypothesize that two competing factors play a role: the volume accessible to the water molecules and the correlations between the water and the counterion. The excluded volume effect is the largest with TMA+, and the electrostatic correlation is the strongest with Na+. The observed trend is a result of which of these two effects is dominant at a given water to surfactant ratio.
+
+[Download paper here](http://sritejamantha.github.io/files/paper6JPCB2018.pdf)
+
+Recommended citation: Sriteja Mantha, Grayson L. Jackson, Mahesh K. Mahanthappa, and Arun Yethiraj (2018). "Counterion-Regulated Dynamics of Water Confined in Lyotropic Liquid Crystalline Morphologies" <i>Journal of Physical Chemistry B</i>. 122, 2408-2413.

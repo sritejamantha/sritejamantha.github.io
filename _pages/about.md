@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research associate in Prof. Zhen-Gang Wang’s research group at Caltech. I specialize in the chemical physics of surfactants and their interfacial phenomena, the physics of polymer self-assembly and dynamics, and computational modeling of rare events in chemical systems.
+I am currently a postdoctoral research associate in [Prof. Zhen-Gang Wang’s](http://zgwlab.che.caltech.edu) research group at Caltech. I specialize in:
+ 
+ a) Chemical Physics of Surfactants and their Interfacial Phenomena, 
+ b) Physics of Polymer Self-assembly and Dynamics, and 
+ c) Computational Modeling of Rare Events in Chemical Systems. 
 
-My research investigations at Caltech focus on understanding a) the ability of polyelectrolytes to prevent CaCO<sub>3</sub> mineralization, and b) the ability of surfactants to improve CO<sub>2</sub> bubble nucleation in polymer foams. These studies are conducted in collaboration with scientists at Dow Chemical Company.
+I obtained my Ph.D. while working in [Prof. Arun Yethiraj’s](https://yethiraj.chem.wisc.edu) group at the University of Wisconsin, Madison. My [Ph.D. thesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RIYp-QgAAAAJ&citation_for_view=RIYp-QgAAAAJ:2osOgNQ5qMEC) focused on the self-assembly of gemini surfactants and the properties of nano-confined water. Soon after completing my Ph.D, I conducted research under the supervision of [Prof. Friederike Schmid](https://www.komet1.physik.uni-mainz.de/people/friederike-schmid/) at the Institute für Physik, Universität Mainz-Germany. During this time, I gained expertise in field theoretic modeling of polymer systems and applied these methods to investigate polymer self-assembly and dynamics. 
 
-Prior to Caltech, my research activities involved c) modeling and designing gemini surfactant molecules to direct their self-assembly in water into bi-continuous cubic morphologies (such as the gyroid phase), d) studying the structure and dynamic properties of water confined in different self-assembled morphologies of gemini surfactants, e) examining the effect of polymer chain dispersity on the micellization of diblock copolymers in a selective solvent, and f) investigating the dynamics of diblock copolymer self-assembly.
+Through my graduate and postdoctoral research trainings I acquired expertise in various computational tools and theoretical models. These tools ranged from all-atom and coarse-grained particle-based simulations to study molecular properties of the system, to enhanced sampling approaches such as umbrella sampling, metadynamics, replica exchange molecular simulations, and the transition-state path-finding approach called the string method for modeling rare events in chemistry. 
 
-I employed a variety of computational tools and theoretical models to investigate the physical principles underlying each of the research objectives mentioned above. These tools ranged from all-atom and coarse-grained particle-based simulations to study molecular properties of the system, to enhanced sampling approaches such as umbrella sampling, metadynamics, replica exchange molecular simulations, and the transition-state path-finding approach called the string method for modeling rare events in chemistry. Additionally, I utilized equation of state (EoS) approaches like perturbed chain statistical associating fluid theory (PC-SAFT), as well as field-theory-based approaches such as self-consistent field theory (SCFT), classical density functional theory (cDFT), and dynamic density functional theory (DDFT) for the mesoscopic characterization of system properties. 
+Additionally, I utilized equation of state (EoS) approaches like perturbed chain statistical associating fluid theory (PC-SAFT), as well as field-theory-based methods such as self-consistent field theory (SCFT), classical density functional theory (cDFT), and dynamic density functional theory (DDFT) for the mesoscopic characterizations of system properties.
 
-Please refer to my research page for a brief summary of the objectives, major findings, and the techniques I used to study the research projects listed above
-
-
+Recently, in collaboration with Prof. Wang's group and the scientists at Dow Chemical Company, I have been exploring a synergistic approach to combine physics-based molecular models with the machines learning tools to advance the boundaries of computational materials science research.  
 
